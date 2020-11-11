@@ -1,6 +1,9 @@
 = Dell XPS 15 9570 =
 
-Provides three variants: video left unconfigured (default.nix), Intel graphics only (intel/default.nix), and PRIME offloading (nvidia/default.nix).
+Two configs are provided:
+
+* default.nix: Uses only Intel graphics (extends battery life)
+* nvidia/default.nix: Uses PRIME offloading (requires unfree packages)
 
 README the 9560's and settings based off of the 9560's and 9550's.
 

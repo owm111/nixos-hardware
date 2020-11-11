@@ -90,7 +90,6 @@ See code for all available configurations.
 | [Dell XPS 15 9560, intel only][]  | `<nixos-hardware/dell/xps/15-9560/intel>`          |
 | [Dell XPS 15 9560, nvidia only][] | `<nixos-hardware/dell/xps/15-9560/nvidia>`         |
 | [Dell XPS 15 9570][]              | `<nixos-hardware/dell/xps/15-9570>`                |
-| [Dell XPS 15 9570, intel][]       | `<nixos-hardware/dell/xps/15-9570/intel>`          |
 | [Dell XPS 15 9570, nvidia][]      | `<nixos-hardware/dell/xps/15-9570/nvidia>`         |
 | [Dell XPS 15 9500][]              | `<nixos-hardware/dell/xps/15-9500>`                |
 | [Dell XPS 15 9500, nvidia][]      | `<nixos-hardware/dell/xps/15-9500/nvidia>`         |
@@ -154,7 +153,6 @@ See code for all available configurations.
 [Dell XPS 15 9560, intel only]: dell/xps/15-9560/intel
 [Dell XPS 15 9560, nvidia only]: dell/xps/15-9560/nvidia
 [Dell XPS 15 9570]: dell/xps/15-9570
-[Dell XPS 15 9570, intel]: dell/xps/15-9570/intel
 [Dell XPS 15 9570, nvidia]: dell/xps/15-9570/nvidia
 [Google Pixelbook]: google/pixelbook
 [Inverse Path USB armory]: inversepath/usbarmory
